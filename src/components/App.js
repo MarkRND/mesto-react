@@ -84,7 +84,7 @@ function App() {
               id="title-input"
               name="name"
               type="text"
-              placeholder="Имя пользователя"
+              placeholder="Название"
               minLength="2"
               maxLength="30"
               required
