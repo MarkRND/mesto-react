@@ -1,6 +1,6 @@
 **mesto-react"** 
 
-Яндекс практикум "Веб-разработка"(Спринт 10)
+Яндекс практикум "Веб-разработка"(Спринт 10, 11)
 ## Применялись языки разметки :
 **HTML:5 и CSS.**
 ## Применялись язык программирования :
@@ -22,6 +22,6 @@
 
 <img src="/src/images/mesto.jpg">
 
-[Проект на Github](https://markrnd.github.io/mesto/)
+[Проект на Github](https://markrnd.github.io/mesto-react/)
 
 * [Ссылка на макет в Figma](https://www.figma.com/file/2cn9N9jSkmxD84oJik7xL7/JavaScript.-Sprint-4?node-id=0%3A1)
