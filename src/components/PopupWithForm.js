@@ -5,6 +5,7 @@ const PopupWithForm = ({
   buttonText,
   isOpen,
   onClose,
+  onSubmit,
 }) => {
   return (
     <div className={`popup popup_mode_${name} ${isOpen && "popup_opened"}`}>
@@ -19,6 +20,7 @@ const PopupWithForm = ({
           className={`popup__form popup__form_${name}`}
           name={`popup${name}`}
           noValidate
+          onSubmit={onSubmit}
         >
           {children}
           <button className="popup__save-button" type="submit">
